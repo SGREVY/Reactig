@@ -64,7 +64,7 @@
 .traveler-profile__edit-btn {
   width: 24px;
   height: 24px;
-  background: transparent url("src/assets/images/lapizito-icon.svg") center no-repeat;
+  background: transparent url("/imagenes/lapizito-icon.svg") center no-repeat;
   background-size: 10px 10px;
   border: 1px solid #fff;
   grid-area: button;
