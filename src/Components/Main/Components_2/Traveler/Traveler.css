@@ -49,7 +49,7 @@
 .traveler-profile__add-place-btn {
   width: 150px;
   height: 50px;
-  background: transparent url("imagenes/agregar.svg") center no-repeat;
+  background: transparent url("/imagenes/agregar.svg") center no-repeat;
   background-size: 22px;
   border-radius: 2px;
   border: 2px solid #fff;
