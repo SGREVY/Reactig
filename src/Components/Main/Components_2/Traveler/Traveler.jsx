@@ -1,5 +1,6 @@
 import React from "react";
 import "./Traveler.css";
+import denji from "../../../../assets/images/denji.png";
 
 function Traveler({ onCreateCard }) {
   const [isModalOpen, setIsModalOpen] = React.useState(false);
@@ -26,8 +27,8 @@ function Traveler({ onCreateCard }) {
 
       <img
         className="traveler-profile__image"
-        src="src/assets/images/denji.png"
-        alt="Avatar"
+          src={denji}
+          alt="Avatar"
       />
 
       <div className="traveler-profile__details">
